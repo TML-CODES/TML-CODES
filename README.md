@@ -1,36 +1,34 @@
-<h1 align="center">
+<h2 align="center">
     <samp>&gt; Olá! Eu sou 
-        <b><a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">Talisson Luques</a></b>
+        <a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">Talisson Luques</a>
+        <br/>
+        CEO e Fundador da <a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">TML DS</a>
     </samp>
-</h1>
-<h2 align="center" style="">
-    <samp>CEO e Fundador da
-        <b><a target="_blank" href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/">TML Desenvolvimento de Software Ltda.</a></b>
-    </samp>
+    <br/><br/>
+    <p align="center">
+        <a href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        </a>
+        <a href="https://instagram.com/tml_ds_ltda?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a> 
+        <!-- <a href="https://instagram.com/tml_ds_ltda?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Instagram" />
+        </a>  -->
+        <!-- <a href="https://value.com" target="blank">
+        <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="" />
+        </a>
+        <a href="https://dev.to/value" target="_blank">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="value" />
+        </a>
+        <a href="https://twitter.com/value_dev" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+        </a>
+        <a href="https://facebook.com/value.world" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="value"  />
+        </a>  -->
+    </p>
 </h2>
-<p align="center">
-    <a href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-    </a>
-    <a href="https://instagram.com/tml_ds_ltda?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a> 
-    <!-- <a href="https://instagram.com/tml_ds_ltda?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Instagram" />
-    </a>  -->
-    <!-- <a href="https://value.com" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="" />
-    </a>
-    <a href="https://dev.to/value" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="value" />
-    </a>
-    <a href="https://twitter.com/value_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://facebook.com/value.world" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="value"  />
-    </a>  -->
-</p>
 
 ### Seja bem-vindo ao meu Github 👋😄
 
@@ -64,7 +62,7 @@ Tenho experiência em todo o processo de desenvolvimento de software, com foco m
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon  s/heroku/heroku-original-wordmark.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
