@@ -1,13 +1,13 @@
-<p align="center" style="font-size: xx-large;">
+<h1 align="center">
     <samp>&gt; Olá! Eu sou 
         <b><a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">Talisson Luques</a></b>
     </samp>
-</p>
-<p align="center" style="font-size: x-large;">
+</h1>
+<h2 align="center" style="">
     <samp>CEO e Fundador da
         <b><a target="_blank" href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/">TML Desenvolvimento de Software Ltda.</a></b>
     </samp>
-</p>
+</h2>
 <p align="center">
     <a href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
