@@ -1,8 +1,8 @@
 <h2 align="center">
-    <samp>&gt; Olá! Eu sou 
-        <a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">Talisson Luques</a>
+    <samp>
+        &gt; Olá! Eu sou <a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">Talisson Luques</a>
         <br/>
-        CEO e Fundador da <a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">TML DS</a>
+        CEO e Fundador da <a target="_blank" href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda">TML DS</a>
     </samp>
     <br/><br/>
     <p align="center">
