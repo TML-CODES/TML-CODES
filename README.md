@@ -93,4 +93,10 @@ Tenho experiência em todo o processo de desenvolvimento de software, com foco m
 * Técnico em Desenvolvimento de Sistemas 
 * Tecnólogo em Análise e Desenvolvimento de Sistemas
 
+## Linkedin
+
+* <a href="https://br.linkedin.com/in/talisson-l-036a68191" target="_blank">Pessoal / Talisson Luques</a>
+
+* <a href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/" target="_blank">Corporativo / TML Desenvolvimento de Software Ltda.</a>
+
 <br>
