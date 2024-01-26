@@ -2,11 +2,11 @@
     <samp>
         &gt; Olá! Eu sou <a target="_blank" href="https://www.linkedin.com/in/talisson-l-036a68191/">Talisson Luques</a>
         <br/>
-        CEO e Fundador da <a target="_blank" href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda">TML DS</a>
+        CEO e Fundador da <a target="_blank" href="https://www.linkedin.com/company/tml-codes">TML CODES</a>
     </samp>
     <br/><br/>
     <p align="center">
-        <a href="https://www.linkedin.com/company/tml-desenvolvimento-de-software-ltda/" target="_blank">
+        <a href="https://www.linkedin.com/company/tml-codes" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
         </a>
         <a href="https://instagram.com/tml_ds_ltda?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="_blank">
