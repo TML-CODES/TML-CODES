@@ -20,12 +20,6 @@ body {
   color: var(--color-default);
 }
 
-.img-icon {
-    width: 48px; 
-    height: 100%; 
-    opacity: 0.6;
-}
-
 a {
   color: var(--color-primary);
   text-decoration: none;
@@ -1922,6 +1916,7 @@ section {
   border-radius: 8px;
   z-index: 1;
   width: 100%;
+  height: 180px;
   text-align: center;
 }
 
@@ -1945,11 +1940,17 @@ section {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.img-icon {
+    width: 48px; 
+    height: 100%; 
+    opacity: 0.6;
+    transition: all 0.3s ease-in-out;
+}
+
 .hero .icon-box:hover {
   background: #3b40439d;
   .img-icon { 
     opacity: 1; 
-    transition: all 0.3s ease-in-out;
   }
 }
 
