@@ -974,7 +974,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #00b6a1;
+  background: var(--color-secondary);
 }
 
 .services .service-item:hover h3 {
@@ -1458,7 +1458,7 @@ section {
   height: 86px;
   width: 86px;
   border-radius: 50%;
-  background: #87c1bb;
+  background: var(--color-secondary);
   transition: all 0.3s ease-out 0s;
   transform: translateZ(-1px);
 }
