@@ -29,7 +29,7 @@
               grecaptcha.execute(recaptcha, {action: 'php_email_form_submit'})
               .then(token => {
                 formData.set('recaptcha-response', token);
-                php_email_form_submit(thisForm, action, formData);
+                email_form_submit(thisForm, action, formData);
               })
             } catch(error) {
               displayError(thisForm, error);
@@ -39,12 +39,12 @@
           displayError(thisForm, 'The reCaptcha javascript API url is not loaded!')
         }
       } else {
-        php_email_form_submit(thisForm, action, formData);
+        email_form_submit(thisForm, action, formData);
       }
     });
   });
 
-  function php_email_form_submit(thisForm, action, formData) {
+  function email_form_submit(thisForm, action, formData) {
     fetch(action, {
       method: 'POST',
       body: formData,
@@ -52,14 +52,14 @@
     })
     .then(response => {
       if( response.ok ) {
-        return response.text();
+        return response.json();
       } else {
         throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
       }
     })
     .then(data => {
       thisForm.querySelector('.loading').classList.remove('d-block');
-      if (data.trim() == 'OK') {
+      if (data.ok) {
         thisForm.querySelector('.sent-message').classList.add('d-block');
         thisForm.reset(); 
       } else {
